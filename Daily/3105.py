@@ -21,7 +21,3 @@ class Solution(object):
 
 
         return max(max_increase,max_decrease)
-
-nums = [1,8,10,3,6]
-solve = Solution()
-print(solve.longestMonotonicSubarray(nums))
