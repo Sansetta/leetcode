@@ -19,5 +19,4 @@ class Solution(object):
                 increase = 1
                 decrease = 1
 
-
         return max(max_increase,max_decrease)
